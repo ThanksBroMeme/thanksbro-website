@@ -13,7 +13,7 @@ export default function About() {
             </h4>
             <p className="text-purple-100 text-lg leading-relaxed mb-6">
               THANKSBRO transforms simple appreciation into meaningful recognition. 
-              More than just words, it's a tangible gesture that shows real gratitude.
+              More than just words, it&aposs a tangible gesture that shows real gratitude.
             </p>
             <p className="text-purple-100 text-lg leading-relaxed">
               Built on Solana for lightning-fast, low-cost transactions that make 

@@ -7,7 +7,7 @@ export default function Community() {
         </h3>
         
         <p className="text-lg text-purple-200 mb-12 max-w-2xl mx-auto">
-          Be part of the community that's building the future of digital appreciation.
+          Be part of the community that&aposs building the future of digital appreciation.
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
