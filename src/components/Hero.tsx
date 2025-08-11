@@ -13,7 +13,7 @@ export default function Hero() {
         </div>
 
         <p className="text-lg md:text-xl text-purple-100 mb-12 max-w-3xl mx-auto leading-relaxed">
-          When words aren&apost enough, send a THANKSBRO. Built on Solana for instant, 
+          When words aren't enough, send a THANKSBRO. Built on Solana for instant, 
           meaningful recognition that actually matters.
         </p>
 
